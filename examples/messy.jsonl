@@ -1,0 +1,11 @@
+好的，这是你要的 JSON：```json {"name": "小明", "age": 30} ``` 请查收
+{"x": 10 /* 行内块注释 */, "y": 20} // 行尾注释
+{"a": 1, "b": [1, 2, 3,],}
+{'name': '小红', 'note': 'it\'s fine'}
+{name: "张三", age: 25}
+{"ok": True, "val": None, "no": False}
+{"users": [{"id": 1}, {"id": 2}, {"id":
+{“q”: “你好，世界”, ‘a’: ‘yes’}
+Result: {'items': [1, 2,], 'ok': True,} // 完成
+{"msg": "他说“你好”，很开心"}
+{"clean": true, "n": 42}
